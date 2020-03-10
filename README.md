@@ -1,5 +1,5 @@
 # COVID19Japan.com
-//this is a test
+
 A COVID-19 Coronavirus tracker for Japan. Government agencies release detailed data, but in difficult to read formats and usually only in Japaneese.
 
 
