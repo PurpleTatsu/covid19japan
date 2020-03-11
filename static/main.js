@@ -84,6 +84,8 @@ function drawMap() {
     showCompass: false,
     showZoom: true
   }))
+
+  
 }
 
 

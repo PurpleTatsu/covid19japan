@@ -1,5 +1,3 @@
-test test
-
 # COVID19Japan.com
 
 A COVID-19 Coronavirus tracker for Japan. Government agencies release detailed data, but in difficult to read formats and usually only in Japaneese.
@@ -97,3 +95,11 @@ To run the site locally, enter the root directory and run `jekyll serve`. Jekyll
 - https://twitter.com/konotarogomame
 - https://coromap.web.app/
 - https://newsdigest.jp/pages/coronavirus/
+
+
+---disregard
+test test
+test test
+test test
+test test
+test test
